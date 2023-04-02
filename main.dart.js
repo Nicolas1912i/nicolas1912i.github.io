@@ -58964,7 +58964,7 @@ A.ahd.prototype={
 MC(a){$.auI().a.set(this,a)}}
 A.Ya.prototype={
 R(a){var s=null
-return new A.P0(B.Dt,"Nicolas Arias Portfolio",A.aAi(s,B.fJ,B.F,s),!1,new A.agn(s),s)}}
+return new A.P0(B.Dt,"Nicolas Arias Escudero",A.aAi(s,B.fJ,B.F,s),!1,new A.agn(s),s)}}
 A.n1.prototype={
 R(a){var s=a.a4(t.w).f.a.a/1440
 return A.akD(new A.Vs(s,s*0.97,null))}}
